@@ -2,4 +2,8 @@ Esta son las nuevas modificaciones que se realizarán.
 Seguidamente haremos una lista de las otras cosas a realizarse.
 Vamos a seguir con las nuevas modificaciones.
 Para poder ver que es lo que va a pasar en el conflicto.
+<<<<<<< HEAD
 vamos verificando conocimiento.
+=======
+verificando conocimiento
+>>>>>>> 6a4360c679ea40a1bd54786442f5155d9f836726
