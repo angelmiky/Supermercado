@@ -1,4 +1,9 @@
 Esta son las nuevas modificaciones que se realizarán.
 Seguidamente haremos una lista de las otras cosas a realizarse.
+<<<<<<< HEAD
 Bien se modifico en el repositorio remoto y se guardaron los cambios.
 A pesar de eso no vemos que haya pasado algun cambio en esta consola.
+=======
+Vamos a seguir con las nuevas modificaciones.
+Para poder ver que es lo que va a pasar en el comflicto.
+>>>>>>> 85c731b4e17bf55fb5b0c21e38b0d1d4750ca23c
